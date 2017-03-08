@@ -6,6 +6,6 @@ package com.lwtbbk.test;
 public class Test {
 
     public static void main(String[] args){
-        System.out.println("Test Success!");
+        System.out.println("Test Failed!");
     }
 }
